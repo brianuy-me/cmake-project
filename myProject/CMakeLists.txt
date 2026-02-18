@@ -36,4 +36,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Language: C++
 # Requires: C++20
 
-add_executable(myProject src/main.cpp)
+add_executable(myProject "src/main.cpp")
