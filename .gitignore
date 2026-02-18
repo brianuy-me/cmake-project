@@ -11,7 +11,9 @@ install_manifest.txt
 # Visual Studio generated
 *.vcxproj
 *.vcxproj.filters
+*.vcxproj.user
 *.sln
+*.slnx
 .vs/
 
 # Compiled binaries
